@@ -1,9 +1,12 @@
-### Opa opa! Sou Thiago Ribeiro👋
+### Opa opa! Sou [Thiago Ribeiro](https://github.com/ThiagoORuby)👋
 
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/ThiagoRuby#0240)
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://thiagooruby.itch.io)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trs57595@gmail.com)
 
 - 🔭 Ainda não estou trabalhando
-- 🌱 Estudando App Dev (Flutter), Machine Learning (Python) e Web Dev (Flask)
-- 📫 Contate-me no email: trs57595@gmail.com
+- 🧠 Estudando App Dev (Flutter), Machine Learning (Python) e Web Dev (Flask)
+- 🎓 Cursando Ciência da Computação - UFAL
 - 😄 Pronomes: ele/dele
 
 <div align="center">
