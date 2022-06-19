@@ -2,7 +2,7 @@
 
 
 - 🔭 Ainda não estou trabalhando
-- 🌱 Estudando Flutter, Machine Learning e Web Dev
+- 🌱 Estudando App Dev (Flutter), Machine Learning (Python) e Web Dev (Flask)
 - 📫 Contate-me no email: trs57595@gmail.com
 - 😄 Pronomes: ele/dele
 
