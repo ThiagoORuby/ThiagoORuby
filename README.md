@@ -7,7 +7,6 @@
 - 🔭 Ainda não estou trabalhando
 - 🧠 Estudando App Dev (Flutter), Machine Learning (Python) e Web Dev (Flask)
 - 🎓 Cursando Ciência da Computação - UFAL
-- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/ThiagoORuby">
