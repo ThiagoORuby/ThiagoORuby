@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trs57595@gmail.com)
 
 - 🔭 Ainda não estou trabalhando
-- 🧠 Estudando App Dev (Flutter), Machine Learning (Python) e Web Dev (Flask)
+- 🧠 Estudando GameDev, Machine Learning e WebDev
 - 🎓 Cursando Ciência da Computação - UFAL
 
 <div align="center">
