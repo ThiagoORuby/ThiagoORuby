@@ -29,6 +29,7 @@
 <code><img height="30" src="https://img.shields.io/badge/FastAPI-059487?style=for-the-badge&logo=fastapi&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/JINJA-FFFFFF?style=for-the-badge&logo=jinja&logoColor=black"/></code>
+<code><img height="30" src="https://img.shields.io/badge/REACT-2A2C2E?style=for-the-badge&logo=react"></code>
 <code><img height="30" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Neovim-FFFFFf?style=for-the-badge&logo=neovim"></code>
 <code><img height="30" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></code>
