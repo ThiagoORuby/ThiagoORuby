@@ -8,14 +8,7 @@
 - 🧠 Estudando GameDev, Machine Learning e WebDev
 - 🎓 Cursando Ciência da Computação - UFAL
 
-<div align="center">
-  
-![](https://github.com/ThiagoORuby/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/ThiagoORuby/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
-
-</div>
-
-
+![](github-metrics.svg)
 
 ## Linguagens e Ferramentas
 
