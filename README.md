@@ -8,7 +8,11 @@
 - 🧠 Estudando GameDev, Machine Learning e WebDev
 - 🎓 Cursando Ciência da Computação - UFAL
 
+<div align="center">
+  
 ![](github-metrics.svg)
+
+</div>
 
 ## Linguagens e Ferramentas
 
