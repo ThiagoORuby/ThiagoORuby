@@ -19,9 +19,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Brazil/Maceio
           config_display: large
-          output_action: commit
-          committer_branch: metrics-renders
-          committer_message: "chore: update metrics"
           base: header
           plugin_isocalendar: yes
           plugin_languages: yes
